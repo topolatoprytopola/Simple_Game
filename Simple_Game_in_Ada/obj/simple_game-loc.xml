@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\damia\Desktop\Simple_Game_in_Ada\simple_game.gpr</vfs_project>
+      <vfs_file>C:\Users\damia\Desktop\Simple_Game_in_Ada\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 38" >
+      <vfs_project>C:\Users\damia\Desktop\Simple_Game_in_Ada\simple_game.gpr</vfs_project>
+      <vfs_file>C:\Users\damia\Desktop\Simple_Game_in_Ada\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 21" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\damia\Desktop\Simple_Game_in_Ada\simple_game.gpr</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
